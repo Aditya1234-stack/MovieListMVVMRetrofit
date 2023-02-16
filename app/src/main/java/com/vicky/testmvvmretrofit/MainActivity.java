@@ -25,6 +25,7 @@ import com.vicky.testmvvmretrofit.viewmodel.RetroViewHolder;
 
 import java.util.List;
 
+
 public class MainActivity extends AppCompatActivity {
     List<ResultModel> litresult;
     private SwipeRefreshLayout swipeRefreshLayout;
